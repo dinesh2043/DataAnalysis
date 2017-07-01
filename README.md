@@ -1,5 +1,4 @@
-## DataAnalysis
-### Data Visualization, KNN Regression and Lenear Regression in R
+## DataAnalysis And Data Visualization
 
 ### Task 1:
 ### Histogram:
