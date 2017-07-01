@@ -22,7 +22,7 @@ While plotting histogram for 12 different attributes of multi-dimensional white 
 In the following section of this document there are 48 different histograms obtained according to the results of four different methods to determining the numbers of bins. In some of the cases these methods have very effective results and they have represented the data in an easily understandable manner and some of them might not be that well visualized. And it might be also difficult to determine the interval of data belonging to the particular density values.   
 
 ![img](https://github.com/dinesh2043/DataAnalysis/blob/master/figure/fig1.JPG)
-<dt>Figure 1: Default (14 bins)</dt>		<dt>Figure 2: Scott’s Rule (60 bins)</dt>		
+<dd>Figure 1: Default (14 bins)</dd>		<dd>Figure 2: Scott’s Rule (60 bins)</dd>		
 ![img](https://github.com/dinesh2043/DataAnalysis/blob/master/figure/fig2.JPG)  
 Figure 3: FD choice (89 bins)		Figure 4: Square Root Choice (69 bins)
 ![img](https://github.com/dinesh2043/DataAnalysis/blob/master/figure/fig3.JPG)  
