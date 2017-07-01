@@ -22,20 +22,19 @@ While plotting histogram for 12 different attributes of multi-dimensional white 
 In the following section of this document there are 48 different histograms obtained according to the results of four different methods to determining the numbers of bins. In some of the cases these methods have very effective results and they have represented the data in an easily understandable manner and some of them might not be that well visualized. And it might be also difficult to determine the interval of data belonging to the particular density values.   
 
 ![img](https://github.com/dinesh2043/DataAnalysis/blob/master/figure/fig1.JPG)
-
-|Figure 1: Default (14 bins)		|Figure 2: Scott’s Rule (60 bins)	|	
+<dt>Figure 1: Default (14 bins)</dt>		<dt>Figure 2: Scott’s Rule (60 bins)</dt>		
 ![img](https://github.com/dinesh2043/DataAnalysis/blob/master/figure/fig2.JPG)  
 Figure 3: FD choice (89 bins)		Figure 4: Square Root Choice (69 bins)
 ![img](https://github.com/dinesh2043/DataAnalysis/blob/master/figure/fig3.JPG)  
-Figure 5: Default (14 bins)			Figure 6: Scott Rule (50 bins)	
+Figure 5: Default (14 bins)		Figure 6: Scott Rule (50 bins)	
 ![img](https://github.com/dinesh2043/DataAnalysis/blob/master/figure/fig4.JPG)  
 Figure 7: FD Choice (79 bins)		Figure 8: Square Root Choice (69 bins)
 ![img](https://github.com/dinesh2043/DataAnalysis/blob/master/figure/fig5.JPG)   
-Figure 9: Default (14 bins)				Figure 10: Scott Rule (67 bins)	
+Figure 9: Default (14 bins)		Figure 10: Scott Rule (67 bins)	
 ![img](https://github.com/dinesh2043/DataAnalysis/blob/master/figure/fig6.JPG)  
 Figure 11: FD Choice (118 bins)		Figure 12: Square Root Choice (69 bins)
 ![img](https://github.com/dinesh2043/DataAnalysis/blob/master/figure/fig7.JPG)  
-Figure 13: Default (14 bins)			Figure 14: Scott’s Rule (63 bins)		
+Figure 13: Default (14 bins)		Figure 14: Scott’s Rule (63 bins)		
 ![img](https://github.com/dinesh2043/DataAnalysis/blob/master/figure/fig8.JPG)  
 Figure 15: FD Choice (68 bins)		Figure 16: Square Root Choice (69 bins)
 ![img](https://github.com/dinesh2043/DataAnalysis/blob/master/figure/fig9.JPG)   
