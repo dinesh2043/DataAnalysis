@@ -170,25 +170,25 @@ As we can see that almost all the attributes has some similarity at least one at
 ### Task 6:
 ### Pearson’s Correlation:  
 Pearson’s correlation coefficient is used in statistics to measure the linear dependencies between two variables X and Y. Pearson’s correlation values ranges from +1 to -1 where +1 is total positive linear correlation, 0 is no linear correlation and -1 is total negative correlation. It is calculated using the following formula; [8]
-![img](https://github.com/dinesh2043/DataAnalysis/blob/master/figure/fig47.JPG)
+![img](https://github.com/dinesh2043/DataAnalysis/blob/master/figure/fig52.JPG)
 #### (Formula is copied from Wikipedia) <br />
 In the following figure we can see the person’s correlation table of the dataset;
-![img](https://github.com/dinesh2043/DataAnalysis/blob/master/figure/fig48.JPG) 
+![img](https://github.com/dinesh2043/DataAnalysis/blob/master/figure/fig47.JPG) 
 #### Figure 76: Person’s Correlation Table <br />
 ### Spearman’s Rho Correlation:
 Spearman’s Rho Correlation is used to measure the statistical dependencies between the rankings of the two variables. It determines how well the relationship between two variables can be explained using monotonic function. A monotonic relation is a relationship where one value of variable increases then the value of other variable also increases or when the value of one variable increases the value of other variable decreases. Where Spearman’s correlation measures the strength and direction of the monotonic association between the variables. Spearman’s Rho correlation is calculated using the following formula; [6]
-![img](https://github.com/dinesh2043/DataAnalysis/blob/master/figure/fig49.JPG) 
+![img](https://github.com/dinesh2043/DataAnalysis/blob/master/figure/fig48.JPG) 
 #### (Formula is copied from Wikipedia) <br />
  In the following figure we can see the Spearman’s Rho correlation table of the dataset;
-![img](https://github.com/dinesh2043/DataAnalysis/blob/master/figure/fig50.JPG) 
+![img](https://github.com/dinesh2043/DataAnalysis/blob/master/figure/fig49.JPG) 
 #### Figure 77: Spearman’s Rho Correlation Table <br /> 
 ### Kendall’s Tau Correlation:
 Kendall’s Tau correlation also ranks correlation coefficient by assessing the association based on the ranks of the data. It is used to measure the ordinal association between two measured quantities. Kendall’s correlation between two variables will be high value with the observations having similar rank between them and low value with the observations have dissimilar rank between them. It can be calculated by using the following expression; [7]
 
-![img](https://github.com/dinesh2043/DataAnalysis/blob/master/figure/fig51.JPG)
+![img](https://github.com/dinesh2043/DataAnalysis/blob/master/figure/fig50.JPG)
 #### (Formula is copied from Wikipedia) <br />
 In the following figure we can see Kendall’s Tau correlation table of the dataset;
-![img](https://github.com/dinesh2043/DataAnalysis/blob/master/figure/fig52.JPG)
+![img](https://github.com/dinesh2043/DataAnalysis/blob/master/figure/fig51.JPG)
 #### Figure 78: Kendall’s Tau Correlation Table <br />
 
 ### References
