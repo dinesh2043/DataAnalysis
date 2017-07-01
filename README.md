@@ -1,4 +1,4 @@
-## DataAnalysis And Data Visualization
+## DataAnalysis with Data Visualization
 
 ### Task 1:
 ### Histogram:
