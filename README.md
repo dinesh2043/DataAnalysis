@@ -192,13 +192,13 @@ In the following figure we can see Kendall’s Tau correlation table of the data
 #### Figure 78: Kendall’s Tau Correlation Table <br />
 
 ### References
-[1] Histograms. (n.d.). Retrieved December 01, 2016, from https://statistics.laerd.com/statistical-guides/understanding-histograms.php
-[2] What is box plot? - Definition from WhatIs.com. (n.d.). Retrieved December 02, 2016, from http://whatis.techtarget.com/definition/box-plot 
-[3] "What is a parallel coordinate plot?,". [Online]. Available: https://docs.tibco.com/pub/sfire-analyst/7.5.0/doc/html/WebHelp/para/para_what_is_a_parallel_coordinate_plot.htm. Accessed: Dec. 2, 2016.
-[4] T. P. State, "11.1 - principal component analysis (PCA) procedure," 2016. [Online]. Available: https://onlinecourses.science.psu.edu/stat505/node/51. Accessed: Dec. 4, 2016.
-[5] "Multidimensional scaling,". [Online]. Available: http://www.analytictech.com/networks/mds.htm. Accessed: Dec. 4, 2016.
-[6] L. R. Ltd, "Spearman’s rank-order correlation," 2013. [Online]. Available: https://statistics.laerd.com/statistical-guides/spearmans-rank-order-correlation-statistical-guide.php. Accessed: Dec. 4, 2016.
-[7] S. S. 2016, "Kendall’s Tau and Spearman’s rank correlation coefficient," Statistics Solutions, 2016. [Online]. Available: http://www.statisticssolutions.com/kendalls-tau-and-spearmans-rank-correlation-coefficient/. Accessed: Dec. 4, 2016.
-[8] Andale, "Pearson correlation: Definition and easy steps for use," Statistics How To, 2013. [Online]. Available: http://www.statisticshowto.com/what-is-the-pearson-correlation-coefficient/. Accessed: Dec. 4, 2016.
+[1] Histograms. (n.d.). Retrieved December 01, 2016, from https://statistics.laerd.com/statistical-guides/understanding-histograms.php <br />
+[2] What is box plot? - Definition from WhatIs.com. (n.d.). Retrieved December 02, 2016, from http://whatis.techtarget.com/definition/box-plot <br /> 
+[3] "What is a parallel coordinate plot?,". [Online]. Available: https://docs.tibco.com/pub/sfire-analyst/7.5.0/doc/html/WebHelp/para/para_what_is_a_parallel_coordinate_plot.htm. Accessed: Dec. 2, 2016. <br />
+[4] T. P. State, "11.1 - principal component analysis (PCA) procedure," 2016. [Online]. Available: https://onlinecourses.science.psu.edu/stat505/node/51. Accessed: Dec. 4, 2016. <br />
+[5] "Multidimensional scaling,". [Online]. Available: http://www.analytictech.com/networks/mds.htm. Accessed: Dec. 4, 2016. <br />
+[6] L. R. Ltd, "Spearman’s rank-order correlation," 2013. [Online]. Available: https://statistics.laerd.com/statistical-guides/spearmans-rank-order-correlation-statistical-guide.php. Accessed: Dec. 4, 2016. <br />
+[7] S. S. 2016, "Kendall’s Tau and Spearman’s rank correlation coefficient," Statistics Solutions, 2016. [Online]. Available: http://www.statisticssolutions.com/kendalls-tau-and-spearmans-rank-correlation-coefficient/. Accessed: Dec. 4, 2016. <br />
+[8] Andale, "Pearson correlation: Definition and easy steps for use," Statistics How To, 2013. [Online]. Available: http://www.statisticshowto.com/what-is-the-pearson-correlation-coefficient/. Accessed: Dec. 4, 2016. <br />
 
 
